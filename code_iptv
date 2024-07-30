@@ -13,14 +13,14 @@
            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
            "import": false
       }, {
-           "name": "Ultm. versión 29/07/2024",
+           "name": "Ultm. versión 30/07/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 29/07/2024",
+           "info": "última versión actualizada el 30/07/2024",
            "import": false
       }, {
            "name": "UFC[---]",
            "image": "https://www.estilomma.com/images/noticias/thumbnails/Do0-qzJjXwGBUbhK7nCQiVro2YT51DHhBw7OnTvJr35PEACSqaqhxfHdmedSZrEiLTiuqERb=s900-c-k-c0x00ffffff-no-rj_thumb_297x297.jpg",
-           "url": "",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPBOX_content-UFCxxx/main/code_iptv",
            "import": false
       }, {
            "name": "UFC Figth Nights",
